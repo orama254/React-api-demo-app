@@ -4,7 +4,7 @@ export default function About() {
     return (
     <div className="card text-center mt-3">
             <div className="card-body">
-                <h5 className="card-title font-weight-bold">This is a Demo React Page</h5>
+                <h5 className="card-title font-weight-bold">This is a Demo React app</h5>
                 <p className="card-text">Its main focus is to learn React Hooks, React Router and Functional components</p>
             </div>
             <div className="card-footer text-muted">
@@ -14,13 +14,3 @@ export default function About() {
     )
 }
 
-
-
-
-
-/**
- * <div>
-            <h1>This is a Demo React Page</h1>
-            <p>Its main focus is to learn React Hooks, React Router and Functional components</p>
-        </div>
- */
