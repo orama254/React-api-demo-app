@@ -1,4 +1,4 @@
-# Dad Jokes Practice React App
+# Dad Jokes API Demo React App
 
 This is a simple react application that is meant to acquire knowledge on React Hooks, Functional Components and React Router.
 
